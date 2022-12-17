@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: FuBar - |cffffffffDecursive|r|cff00ff00Fu|r
+## Notes: Simple FuBar plugin for Decursive
+## Author: Qxcl
+## Version: 2.0
+## SavedVariables: DecursiveFuDB
+## RequiredDeps: FuBar, Decursive
+## OptionalDeps: Ace2, DewdropLib, FuBarPlugin-2.0, TabletLib
+
+## X-Embeds: Ace2, DewdropLib, FuBarPlugin-2.0, TabletLib
+## X-Credits: Qxcl, Zilver
+## X-License: GPL v3 or later.
+
+embeds.xml
+
+FuBar_DecursiveFu.lua
