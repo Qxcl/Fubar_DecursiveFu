@@ -1,5 +1,6 @@
 FuBar DecursiveFu
 ---
+A FuBar plugin for Decursive for WoW 1.12.
 
 ![Screenshot](screenshot.png)
 
